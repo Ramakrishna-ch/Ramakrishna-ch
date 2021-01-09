@@ -1,4 +1,4 @@
-### Hi, I'm [Rama krishna!] 👋
+### Hi, I'm Rama krishna 👋
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/)
 - 🌱 I’m currently learning Backend-[FireBase](https://firebase.google.com/)
