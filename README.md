@@ -1,4 +1,4 @@
-### Hi, I'm Rama krishna 👋 An Aspiring Software Engineer looking for oppurtunity to work in a Challenging environment to prove my skills in Software development, Problem solving.Willing to Adapt latest technologies by constant learning for carreer improvement and company growth
+### Hi, I'm Rama krishna 👋 Software Engineer with proven experience in building robust and scalable software systems with strong System design principles. Experience in web applications, DLP tools, Data and Information security, 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/)
 - 🌱 I’m currently learning Backend-[FireBase](https://firebase.google.com/)
